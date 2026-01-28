@@ -9,8 +9,8 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 ## About Me
 
 - Backend development is my jam
-- Devops and cloud infrastructure sparks joy to me
-- Systems engineering fascinates me — optimization and automation is the fun part
+- Devops and Cloud infrastructure sparks joy for me
+- Systems engineering fascinates me — optimization is the fun part
 - Daily driving **Arch Linux** with **Neovim** and **Ghostty**
 
 ---
@@ -23,6 +23,10 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
@@ -34,7 +38,7 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ---
 
-## Currently Learning
+## Current Developer Journey
 
 - 🐳 Docker & Kubernetes
 - ☁️ AWS (video streaming)
