@@ -8,10 +8,10 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ## ⚡ About Me
 
-- 🎓 B.S. in Computer Science
-- 🛠️ Backend development is my jam
-- 🧠 Systems engineering fascinates me — optimization is the fun part
-- 🐧 Daily driving **Arch Linux** with **Neovim** and **Ghostty**
+- Backend development is my jam
+- Devops and cloud infrastructure sparks joy to me
+- Systems engineering fascinates me — optimization and automation is the fun part
+- Daily driving **Arch Linux** with **Neovim** and **Ghostty**
 
 ---
 
