@@ -15,7 +15,7 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ---
 
-## 🔧 Tech I Work With
+## Tech I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -26,7 +26,7 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ---
 
-## 🧰 My Setup
+## My Setup
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
@@ -34,7 +34,7 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - 🐳 Docker & Kubernetes
 - ☁️ AWS (video streaming)
