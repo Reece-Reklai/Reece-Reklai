@@ -40,9 +40,9 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 
 ## Current Developer Journey
 
-- 🐳 Docker & Kubernetes
-- ☁️ AWS (video streaming)
-- 🔄 CI/CD pipelines
+- Docker & Kubernetes
+- AWS (video streaming)
+- CI/CD pipelines
 
 ---
 
