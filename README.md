@@ -1,6 +1,6 @@
 # Reece here . . . 👋
 
-**Backend Developer | Systems Tinkerer | USAF**
+**Backend Developer | Systems Tinkerer**
 
 I'm a software developer currently serving in the U.S. Air Force. I love backend engineering, optimizing for performant systems and automation. Simply put: coding is consuming my life right now
 
