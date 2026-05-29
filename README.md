@@ -2,7 +2,7 @@
 
 **Backend Developer | Systems Tinkerer**
 
-I love backend engineering, optimizing for performant systems and automation. Simply put: coding is consuming my life right now
+I love making stuff happen with code
 
 ---
 
