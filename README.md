@@ -1,6 +1,6 @@
 # 👋
 
-**Backend Developer | Systems Tinkerer**
+**Systems Tinkerer**
 
 I love making stuff happen with code
 
@@ -8,9 +8,7 @@ I love making stuff happen with code
 
 ## About Me
 
-- Backend development is my jam
-- Devops and Cloud infrastructure sparks joy for me
-- Systems engineering fascinates me — optimization is the fun part
+- Systems engineering fascinates me: optimization is the fun part
 - Daily driving **Arch Linux** with **Neovim** and **Ghostty**
 
 ---
