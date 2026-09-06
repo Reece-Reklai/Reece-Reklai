@@ -1,9 +1,5 @@
 # 👋
 
-**Systems Tinkerer**
-
-I love making stuff happen with code
-
 ---
 
 ## About Me
